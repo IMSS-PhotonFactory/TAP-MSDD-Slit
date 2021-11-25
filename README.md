@@ -3,6 +3,11 @@
 
 All 3d models have been made by [DesignSpark Mechanical](https://www.rs-online.com/designspark/mechanical-software).
 
+## License
+
+All materials are usable under CC BY-SA license.  
+![CC BY-SA](./by-sa.png)
+
 ## File list
 
 * TAP7SDD_40mmSlit : Soller slit for 7-elements SDD, working distance = 40 mm.
@@ -15,4 +20,8 @@ All 3d models have been made by [DesignSpark Mechanical](https://www.rs-online.c
 
 ## Usage
 
-![Figure 1](./fig1.png)
+![Figure 1](./fig1.jpg)
+
+---
+
+2021 KEK-PhotonFactory Some Rights Reserved.
