@@ -23,4 +23,4 @@ All materials are usable under [Apache-2.0 license](https://www.apache.org/licen
 
 ---
 
-2021 KEK-PhotonFactory
+2021 KEK-PhotonFactory and S.Noguchi
