@@ -5,8 +5,7 @@ All 3d models have been made by [DesignSpark Mechanical](https://www.rs-online.c
 
 ## License
 
-All materials are usable under CC BY-SA license.  
-![CC BY-SA](./by-sa.png)
+All materials are usable under [Apache-2.0 license](https://www.apache.org/licenses/LICENSE-2.0).  
 
 ## File list
 
@@ -24,4 +23,4 @@ All materials are usable under CC BY-SA license.
 
 ---
 
-2021 KEK-PhotonFactory Some Rights Reserved.
+2021 KEK-PhotonFactory
