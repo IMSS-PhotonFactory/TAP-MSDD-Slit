@@ -12,7 +12,7 @@ All materials are usable under [Apache-2.0 license](https://www.apache.org/licen
 * TAP7SDD_40mmSlit : Soller slit for 7-elements SDD, working distance = 40 mm.
 * TAP7SDD_20mmSlit : Soller slit for 7-elements SDD, working distance = 20 mm.
 
-* TAP7SDD_SlitAdapter : Inner adapter for Soller slit.
+* TAP7SDD_SlitAdapter : Inner adapter for Soller slit. (not supplied at beta release)
 
 * JigFor40mmSlit : Jig for sample position adjustment, length = 40 mm.
 * JigFor20mmSlit : Jig for sample position adjustment, length = 20 mm.
